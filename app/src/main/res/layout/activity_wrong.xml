@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".ActivityWrong">
+
+
+
+    <ImageView
+        android:id="@+id/img_show"
+        android:layout_width="1280dp"
+        android:layout_height="800dp"
+        android:layout_gravity="center"
+        android:background="@drawable/no"/>
+
+</LinearLayout>
